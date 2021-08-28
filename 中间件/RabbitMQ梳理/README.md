@@ -11,9 +11,9 @@
 > 中心和分省需同步的表相同
 
 * 中心交换机和分省交换机：topic，同一套代码，不同的队列监听
-* 数据变更交换机：front，数据变更之后通知给其他业务线
+* 数据变更交换机：fanout，数据变更之后通知给其他业务线
 
-# Exchange
+## Exchange
 
 > 交换机，根据规则将消息路由到指定的队列
 
@@ -34,6 +34,38 @@
 * headers
 
   >待实践
+
+# Queue
+
+#### arguments
+
+* x-dead-letter-exchange:配置死信交换机
+
+* x-dead-letter-routing-key:配置死信路由key
+
+* x-expires:配置队列自动删除时间，指定时间段内没有访问则自动删除
+
+* x-message-ttl:配置队列中消息的存活时间
+
+* x-max-length:[配置队列中消息数量的最大值](https://rabbitmq.com/maxlength.html) 
+
+* x-max-length-bytes:[队列中消息的最大容量](https://rabbitmq.com/maxlength.html)
+
+  > 当队列中的消息容量达到最大值时，将从队列头开始删除
+
+* x-single-active-consumer:设置每次只有一个消费者从队列中进行消费
+
+* x-queue-mode:设置队列模式
+
+  > default:队列会存储在内容中，更快的发送给消费者，性能更好
+  >
+  > lazy:队列中消息尽可能的存储在磁盘中，当消费时加载到内存中
+
+* x-overflow:配置队列溢出行为
+
+  > reject-publish或reject-publish-dlx:最近发布的消息将会丢弃
+
+ 
 
 # 解决方案
 
@@ -73,6 +105,10 @@
 * 发送方确认
 * 重试机制
 
+## 队列消息积压处理
+
+> 
+
 
 
 ## 如何保证消息的顺序性
@@ -85,7 +121,10 @@
 
 * 每一个队列对应一个消费者，单线程处理，消费者内部采用多线程方式消费
 
-  
+
+
+# push VS pull
+
 
 
 

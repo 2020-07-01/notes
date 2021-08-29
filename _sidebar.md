@@ -12,6 +12,8 @@
   - [RabbitMQ](中间件/RabbitMQ梳理/README.md)
   - [basicReject、basicNack、basicRecover区别](中间件/basicReject、basicNack、basicRecover区别/README.md)
   - [死信队列](中间件/RabbbitMQ实现死信队列/README.md)
+  - [吃透CachingConnectionFactory](中间件/CachingConnectionFactory/README.md)
+  - [吃透SimpleMessageListenerContainer](中间件/SimpleMessageListenerContainer/README.md)
 - **其他**
   - [git设置多个账号](其他/git设置多个账号/README.md)
 

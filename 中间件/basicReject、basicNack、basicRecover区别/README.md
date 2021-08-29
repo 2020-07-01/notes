@@ -42,11 +42,9 @@ basicRecover(boolean requeue)
 basicReject(long deliveryTag, boolean requeue)
 ```
 
-> deliveryTag：较复标签
+> deliveryTag：交付标签
 >
 > requeue：是否重新入队
-
-
 
 ## 区别
 

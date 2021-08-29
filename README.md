@@ -19,7 +19,8 @@
 
 ## 中间件
 
-* [RabbitMQ](中间件/RabbitMQ/README.md)
-
-
+* [RabbitMQ梳理](中间件/RabbitMQ/README.md)
+* [吃透CachingConnectionFactory](中间件/CachingConnectionFactory/README.md)
+* [吃透SimpleMessageListenerContainer](中间件/SimpleMessageListenerContainer/README.md)
+* [basicReject、basicNack、basicRecover区别](中间件/basicReject、basicNack、basicRecover区别/README.md)
 

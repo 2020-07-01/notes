@@ -1,3 +1,5 @@
+[CSDN](https://blog.csdn.net/qq_41357573)
+
 ## 知识脑图
 
 * [多线程](https://www.processon.com/view/link/612254f963768958e530fd3d)
@@ -6,10 +8,7 @@
 
 * [数据库](https://www.processon.com/view/link/60c627a2f346fb0ce5cca24a)
 
-## 数据结构
 
-- [HashMap](数据结构/HashMap/README.md)
-- [ArrayList](数据结构/ArrayList/README.md)
 
 ## 数据库
 

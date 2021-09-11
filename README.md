@@ -21,6 +21,7 @@
 
 ## 多线程
 
+* [synchronized](多线程/synchronized/README.md)
 * [线程同步工具](多线程/线程同步工具/README.md)
 * [对线程中断的理解](多线程/对线程中断的理解/README.md)
 * [线程池ExecutorService](多线程/线程池ExecutorService/README.md)
@@ -35,4 +36,8 @@
 ## 搜索
 
 * [Elasticsearch自定义相关性评分score](搜索/Elasticsearch自定义相关性评分score/README.md)
+
+## 缓存
+
+* [Redis集群搭建](缓存/Redis集群搭建记录/README.md)
 

@@ -122,6 +122,10 @@ class NullToEmptyAdapterFactory<T> implements TypeAdapterFactory{
 }
 ```
 
+## 序列化策略
+
+> 通过序列化策略可对指定字段进行控制是否序列化
+
 ## 泛型类型的支持
 
 >gson 饭序列化过程中，如果遇到泛型类型，则默认转换为LinkedTreeMap对象

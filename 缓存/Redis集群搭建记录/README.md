@@ -2,17 +2,9 @@
 >
 > 研发环境的Redis集群三个节点 node1,node2,node3
 
-
-
-> 基础准备：
->
-> 1.哨兵模式，cluster模式
->
-> 2.槽位概念
-
-
-
 关于节点动态删除，槽位变化，数据指定节点等后续在研究整理（待研究）
+
+下面记录一下搭建过程
 
 ## 相关配置
 
@@ -28,7 +20,9 @@
 
 * cluster-enabled 
 
-  > cluster-enabled yes  开启redis集群
+  > cluster-enabled yes  开启redis集群 
+  >
+  > 节点启动有方式是集群方式
 
 * cluster-node-timeout
 

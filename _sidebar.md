@@ -7,6 +7,7 @@
 - **数据结构**
 
   * [HashMap](数据结构/HashMap/README.md)
+  * [Hash冲突](数据结构/Hash冲突解决方式/README.md)
   
 - **数据库**
   - [using filesort和using temporary](数据库/文件排序和临时表/README.md)

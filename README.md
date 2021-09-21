@@ -18,6 +18,7 @@
 ## 数据结构
 
 * https://blog.csdn.net/qq_41357573/category_8778430.html?spm=1001.2014.3001.5482
+* [Hash冲突](数据结构/Hash冲突解决方式/README.md)
 
 ## 多线程
 
@@ -29,7 +30,7 @@
 
 ## 中间件
 
-* [RabbitMQ梳理](中间件/RabbitMQ/README.md)
+* [RabbitMQ梳理](中间件/RabbitMQ梳理/README.md)
 * [吃透CachingConnectionFactory](中间件/CachingConnectionFactory/README.md)
 * [吃透SimpleMessageListenerContainer](中间件/SimpleMessageListenerContainer/README.md)
 * [basicReject、basicNack、basicRecover区别](中间件/basicReject、basicNack、basicRecover区别/README.md)

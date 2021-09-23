@@ -7,9 +7,9 @@
 ## 知识脑图
 
 * [多线程](https://www.processon.com/view/link/612254f963768958e530fd3d)
-* [[数据结构与算法](https://www.processon.com/view/link/6122554663768958e530fdb9)]
+* [数据结构与算法](https://www.processon.com/view/link/6122554663768958e530fdb9)
 * [数据库](https://www.processon.com/view/link/60c627a2f346fb0ce5cca24a)
-* [基础知识](https://www.processon.com/view/link/612249965653bb6788dda7d8)
+* [基础知识](https://www.processon.com/view/link/614b3578f346fb69b167752b)
 
 ## 数据库
 

@@ -24,11 +24,11 @@ public static void main(String[] args) {
 }
 ```
 
-![JVM信息](../静态文件/JVM信息.png)
+![JVM信息](../静态资源/JVM信息.png)
 
 ## 对象信息
 
-![](D:\workspace\github\notes\Java\类的加载过程\对象信息.png)
+![](../静态资源/对象信息.png)
 
 由上图可知：对象的组成部分分为**对象头，实例数据，对齐填充**
 

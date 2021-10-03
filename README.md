@@ -4,13 +4,6 @@
 
 [CSDN](https://blog.csdn.net/qq_41357573)
 
-## 知识脑图
-
-* [多线程](https://www.processon.com/view/link/612254f963768958e530fd3d)
-* [数据结构与算法](https://www.processon.com/view/link/6122554663768958e530fdb9)
-* [数据库](https://www.processon.com/view/link/60c627a2f346fb0ce5cca24a)
-* [基础知识](https://www.processon.com/view/link/614b3578f346fb69b167752b)
-
 ## 数据库
 
 * [using filesort 和 using tmporary](数据库/文件排序和临时表/README.md)
@@ -54,5 +47,7 @@
 
 ## JVM
 
+* [对象](JVM/对象/README.md)
 * [垃圾收集器CMS和G1](JVM/垃圾收集器CMS和G1/README.md)
+* [Java字节码文件](JVM/Java字节码文件/README.md)
 

@@ -2,7 +2,6 @@
 
 - **Java基础**
   - [gson](Java/谷歌开源工具gson/README.md)
-  - [对象](Java/对象/README.md)
   
 - **数据结构**
 
@@ -41,7 +40,9 @@
 * **缓存**
   * [Redis集群搭建](缓存/Redis集群搭建记录/README.md)
 * **JVM**
+  * [对象](JVM/对象/README.md)
   * [垃圾收集器CMS和G1](JVM/垃圾收集器CMS和G1/README.md)
+  * [Java字节码文件](JVM/Java字节码文件/README.md)
 * **其他**
   * [在线工具](其他/实用的在线工具/README.md)
 

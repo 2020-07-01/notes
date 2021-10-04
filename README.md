@@ -39,6 +39,7 @@
 
 ## 搜索
 
+* [ElasticSearch分布式原理及工作原理](搜索/ElasticSearch分布式原理及工作原理/README.md)
 * [Elasticsearch自定义相关性评分score](搜索/Elasticsearch自定义相关性评分score/README.md)
 
 ## 缓存

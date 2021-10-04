@@ -30,12 +30,12 @@
 
 * [MongoBD分片集群学习及搭建](MongoDB/MongoBD分片集群学习及搭建/README.md)
 
-## 中间件
+## 消息队列
 
-* [RabbitMQ梳理](中间件/RabbitMQ梳理/README.md)
-* [吃透CachingConnectionFactory](中间件/CachingConnectionFactory/README.md)
-* [吃透SimpleMessageListenerContainer](中间件/SimpleMessageListenerContainer/README.md)
-* [basicReject、basicNack、basicRecover区别](中间件/basicReject、basicNack、basicRecover区别/README.md)
+* [RabbitMQ梳理](消息队列/RabbitMQ梳理/README.md)
+* [吃透CachingConnectionFactory](消息队列/CachingConnectionFactory/README.md)
+* [吃透SimpleMessageListenerContainer](消息队列/SimpleMessageListenerContainer/README.md)
+* [basicReject、basicNack、basicRecover区别](消息队列/basicReject、basicNack、basicRecover区别/README.md)
 
 ## 搜索
 

@@ -50,6 +50,6 @@
 ## JVM
 
 * [对象](JVM/对象/README.md)
-* [垃圾收集器CMS和G1](JVM/垃圾收集器CMS和G1/README.md)
+* [垃圾收集器CMS和G1](JVM/Java内存区域划分详解/README.md)
 * [Java字节码文件](JVM/Java字节码文件/README.md)
 

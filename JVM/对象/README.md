@@ -54,5 +54,19 @@ public static void main(String[] args) {
 
 
 
+## 创建对象的过程
+
+
+
+Object object = new Object()
+
+
+
+双重检测锁
+
+指令重排
+
+
+
 
 

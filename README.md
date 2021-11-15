@@ -6,6 +6,8 @@
 
 ## 数据库
 
+* [MySQL索引篇](数据库/MySQL索引篇/README.md)
+
 * [using filesort 和 using tmporary](数据库/文件排序和临时表/README.md)
 
 ## 数据结构

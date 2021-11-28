@@ -1,13 +1,15 @@
 # 关于自己
 
-> 正式工作已经一年，在通过脑图的方式不断的完善自己的知识体系，目前结合自己的工作实践以及脑图中记录的种种问题，整理文档，加深理解。
+> 待写
+
+没事儿多看官方文档，真的会少走不少弯路！
 
 [CSDN](https://blog.csdn.net/qq_41357573)
 
 ## 数据库
 
 * [MySQL索引篇](数据库/MySQL索引篇/README.md)
-
+* [MySQL架构-缓冲池篇](数据库/MySQL架构-缓冲池篇/README.md)
 * [using filesort 和 using tmporary](数据库/文件排序和临时表/README.md)
 
 ## 数据结构
